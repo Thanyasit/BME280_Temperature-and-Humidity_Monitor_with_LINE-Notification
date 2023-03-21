@@ -1,6 +1,7 @@
 # BME280_Temperature-and-Humidity_Monitor_with_LINE-Notification
 <h2>Description</h2>
-This program monitors the temperature and humidity using a BME280 sensor and sends notifications to your LINE account using the LINE Notify API.
+This program monitors the temperature and humidity using a BME280 sensor and sends notifications to your LINE account using the LINE Notify API.<br>
+<b>2019</b>
 <h2>Prerequisites</h2>
 
 - Arduino IDE<br>
