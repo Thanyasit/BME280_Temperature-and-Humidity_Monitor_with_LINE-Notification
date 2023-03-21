@@ -32,4 +32,5 @@ This program monitors the temperature and humidity using a BME280 sensor and sen
 4. Wait for the ESP8266 board to synchronize the time with an NTP server.<br>
 5. Wait for the notification to be sent to your LINE account at the specified time interval (default is every 30 minutes).<br>
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
